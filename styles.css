@@ -4,3 +4,8 @@ ol{
 	display: flex;
 	gap: 30px;
 }
+
+ul{
+	display: flex;
+	gap: 30px;
+}
